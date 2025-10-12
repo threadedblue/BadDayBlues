@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Python / IDE
+.venv/
+.env
+.vscode/
+.idea/
+
+# Blender backups & local caches (keep if you really want them)
+*.blend1
+*.blend2
+*.blend@
+__pycache__/
+
+# Studio One project folder clutter (usually regenerated)
+# Keep .song; ignore heavy/cache outputs
+**/Cache/
+**/History/
+**/Bounces/
+**/Mixdown/
+**/Media/       # consider keeping if you store original takes here
+**/*.peak       # waveform peak caches
+
+# DaVinci Resolve caches (you’ll render from masters anyway)
+CacheClip/
+Resolve Cache/
+OptimizedMedia/
+Proxies/
+*.gallery/
+
+# Renders/exports (optional; keep if you want finals in git)
+renders/
+exports/
+output/
