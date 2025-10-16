@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/HDRi Set up.md",
+                "file": "lyric.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HDRi Set up"
+              "title": "lyric"
             }
           }
         ]
@@ -168,21 +168,20 @@
   },
   "active": "8686b24db749f880",
   "lastOpenFiles": [
-    "song/History/BadDayBlues 20251016-084650 (Autosaved).song",
-    "song/History/BadDayBlues 20251016-084149 (Autosaved).song",
-    "song/History/BadDayBlues 20251016-083648 (Autosaved).song",
-    "song/History/BadDayBlues 20251016-083148 (Autosaved).song",
-    "song/History/BadDayBlues 20251016-082647 (Autosaved).song",
-    "song/History/BadDayBlues 20251016-082146 (Autosaved).song",
-    "song/History/BadDayBlues 20251016-081645 (Autosaved).song",
-    "song/History/BadDayBlues 20251016-081145 (Autosaved).song",
-    "song/History/BadDayBlues 20251016-080644 (Autosaved).song",
-    "song/History/BadDayBlues 20251016-080143 (Autosaved).song",
-    "song/History/BadDayBlues 20251016-075642 (Autosaved).song",
-    "Clippings/AVWorkflow.md",
     "Clippings/HDRi Set up.md",
-    "Clippings/OneMasterScene.md",
     "lyric.md",
+    "BadDayBlues-Singer1.blend1",
+    "BadDayBlues-Singer.blend",
+    "BadDayBlues-Singer1.blend",
+    "BadDayBlues-Singer.blend1",
+    "BadDaybBluesHDRi.blend",
+    "BadDaybBues-Main.blend1",
+    "BadDaybBuesHDRi.blend",
+    "BadDaybBues-Main.blend",
+    "BadDayBlues-HDRi.exr",
+    "BadDayBlues.code-workspace",
+    "Clippings/AVWorkflow.md",
+    "Clippings/OneMasterScene.md",
     "README.md"
   ]
 }
